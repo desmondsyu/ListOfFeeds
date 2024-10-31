@@ -1,0 +1,18 @@
+
+ [
+    {
+      "title": "Annual Company Meeting",
+      "description": "A meeting to discuss the company's achievements and goals for the upcoming year.",
+      "date": "2024-11-15"
+    },
+    {
+      "title": "Project Launch",
+      "description": "Launch of the new product line with an introduction and live demonstration.",
+      "date": "2024-12-01"
+    },
+    {
+      "title": "Team Building Workshop",
+      "description": "A day of activities and workshops aimed at strengthening team dynamics.",
+      "date": "2025-01-10"
+    }
+  ]
